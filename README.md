@@ -45,4 +45,4 @@ vcapServicesObject.credhub[0].credentials["MY_DB_CONNECTION_STRING"].ToString();
 
 ## Authors
 * **Josh Mattila** - *Project initiator* - [spinfooser](https://github.com/spinfooser)
-* **Kevin Chow** - *Paired on project* - [kevinchow](https://github.com/kevinchow)
+* **Kevin Chow** - *Paired on project* - [kschow](https://github.com/kschow)

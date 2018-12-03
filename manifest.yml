@@ -1,0 +1,5 @@
+---
+applications:
+- name: dotnet-credhub-example
+  memory: 512M
+  buildpack: dotnet_core_buildpack
